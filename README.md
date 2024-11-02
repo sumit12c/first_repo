@@ -1,4 +1,4 @@
 # first_repo
-hello this is my first repository
+Hello this is my (1st) first repository
 <br>
-writer/reader - Sumit Patel
+writer/reader - Sumit Patel 
